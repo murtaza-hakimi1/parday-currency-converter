@@ -15,17 +15,5 @@ A responsive React + TypeScript + Vite + Tailwind CSS currency conversion fronte
 - Node.js 20+ recommended
 - npm
 
-## Run locally
-```bash
-npm install
-npm run dev
-```
-
-## Production build
-```bash
-npm run build
-npm run preview
-```
-
 
 
