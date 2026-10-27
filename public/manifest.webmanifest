@@ -1,0 +1,12 @@
+{
+  "name": "Parday Exchange Currency Converter",
+  "short_name": "Parday Exchange",
+  "description": "Currency conversion with transparent reference rates.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b1220",
+  "theme_color": "#0b1220",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
